@@ -2,7 +2,7 @@
 
 **Assignment 1 - Gradient Descent**
 
-This assignment focuses on using gradient descent to minimize a cost funtion and train a linear regression model.
+This assignment focuses on using gradient descent to minimize a cost function and train a linear regression model.
 
 ## Usage
 
